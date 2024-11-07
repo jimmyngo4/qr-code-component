@@ -30,12 +30,12 @@ body {
     border-radius: 15px;
 }
 
-#qr-code-card h2, p {
+#qr-code-card h1, p {
     text-align: center;
     margin-top: 0px;
 }
 
-#qr-code-card h2 {
+#qr-code-card h1 {
     max-width: 275px;
     color: hsl(218, 44%, 22%);
 }
